@@ -1,3 +1,4 @@
+
 // Bài 1 khởi tạo class
 // -Tên class viết hoa
 
@@ -56,3 +57,4 @@ accounting.describe();
 
 educationDepartment.manager = "Bill Gates";
 console.log("Manager: " + educationDepartment.manager);
+
